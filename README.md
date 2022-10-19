@@ -1,3 +1,6 @@
+
+<img src="https://media1.giphy.com/media/GkxD84yRid3F7p4xze/giphy.gif?cid=790b76111fe322c78a447784b6cfbe5ea21c4ebcc4232707&rid=giphy.gif&ct=g" align="right" width="400" height="250">
+
 <h1 align="left">Hi there, I'm Ümit 👋🏻 </h1>
 <h3 align="left"> I am a Frontend Developer. I love coding, writing, speaking and forests. </h3>
 <h3 align="left"> Glad to see you here! :smile: </h3>
