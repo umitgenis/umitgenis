@@ -2,7 +2,7 @@
 <img src="https://media1.giphy.com/media/GkxD84yRid3F7p4xze/giphy.gif?cid=790b76111fe322c78a447784b6cfbe5ea21c4ebcc4232707&rid=giphy.gif&ct=g" align="right" width="400" height="250">
 
 <h1 align="left">Hi there, I'm Ümit 👋🏻 </h1>
-<h3 align="left"> I am a Frontend Developer. I love coding, writing, speaking, forests and camping. </h3>
+<h3 align="left"> I am a Software Developer. I love coding, writing, speaking, forests and camping. </h3>
 <h3 align="left"> Glad to see you here! :smile: </h3>
 <h5 align="left">📍 Currently base at: Istanbul, Turkey</h5>
 
@@ -23,7 +23,9 @@
 
 <h2 align='left''> Languages and Tools 💻 </h2>
 <p align='left'>
-<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/laravel.svg'> 
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/php.svg'> 
+<img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg'>                          
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/bootstrap.svg'>
 <img width ='44px' align='center' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg'>                  
